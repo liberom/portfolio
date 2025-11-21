@@ -1,17 +1,18 @@
-title: Jardim da Dilma
-author: liberom
-email: liberom@email.com
+title: Vinicius Libero - Web Developer Portfolio
+author: Vinicius Libero Moreira
+email: your_email@example.com
 description: >-
-  Descrição sobre o site.
+  Portfolio of Ruby on Rails applications, AI-powered projects, and full-stack web solutions.
+  Showcasing expertise in project management, AI integration, and modern web development.
 
 languages: ["pt", "en"]
 
 social:
-  twitter: dilmajardim
-  facebook: dilmajardim
-  instagram: dilmajardim
-  github: dilmajardim
-  linkedin:
+  twitter: ViniciusLibero
+  facebook:
+  instagram:
+  github: liberom
+  linkedin: vinicius-libero
 
 # Build settings
 markdown: kramdown
